@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cc5db1f-36af-4f67-b36f-8c0060a52c42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marco/test/constant/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marco/test/service/CheckDigitService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marco/shop/ShopApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marco/test/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marco/shop/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marco/test/config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marco/shop/constant/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marco/shop/controller/PurchaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marco/test/controller/CheckDigitController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marco/shop/service/PurchaseService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marco/shop/vo/ItemVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marco/test/vo/ItemVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marco/shop/vo/PurchaseVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marco/test/vo/PurchaseVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marco/shop/vo/ReceiptVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marco/test/vo/ReceiptVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/marco/shop/ShopApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/marco/test/ShopApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/marco/shop/controller/PurchaseControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/marco/test/controller/PurchaseControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/marco/shop/ShopApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/marco/shop/config/SwaggerConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/marco/shop/constant/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/marco/shop/controller/PurchaseController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/marco/shop/service/PurchaseService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/marco/shop/vo/ItemVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/marco/shop/vo/PurchaseVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/marco/shop/vo/ReceiptVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marco/shop/ShopApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/marco/shop/controller/PurchaseControllerTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -114,15 +90,18 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="801" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,8 +157,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,10 +209,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="801" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,6 +369,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marco/test/constant/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/marco/test/config/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -403,13 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marco/test/constant/Constant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
         </state>
       </provider>
     </entry>
