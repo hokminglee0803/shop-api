@@ -1,8 +1,6 @@
 package com.marco.test.controller;
 
 import com.marco.test.service.CheckDigitService;
-import com.marco.test.vo.PurchaseVO;
-import com.marco.test.vo.ReceiptVO;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
